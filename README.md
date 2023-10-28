@@ -1,1 +1,1 @@
-# Thsi is a test repo(First Repo)
+# This is a test repo(First Repo)
